@@ -1,0 +1,104 @@
+{
+    "basics": {
+      "name": "BHARATHWAAJ R",
+      "label": "Intrnal Combustion Engineer",
+      "email": "bharathwaaj.ramani09@gmial.com",
+      "phone": "+91 9677652554",
+      "degree": "M.Tech Internal Combustion Engineering",
+      "location": {
+        "address": "39/19, Sadugaramadam 3rd Street, Salavenpet",
+        "postalCode": "632001",
+        "city": "Vellore",
+        "countryCode": "India",
+        "region": "Tamil Nadu"
+      },
+      "profiles": [
+        {
+          "network": "linkedin",
+          "username": "Bharathwaaj R",
+          "url": "https://www.linkedin.com/in/bharathwaaj-r-056bb965/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "KPR institute of engineering and technology",
+        "position": "Assistant Professor",
+        "website": "www.kpriet.ac.in",
+        "startDate": "2019-06-03",
+        "endDate": "",
+        "summary": "Training undergraduate students in the field of Mechanical Engineering",
+      },
+      {
+        "company": "SA Engineering College",
+        "position": "Assistant Professor",
+        "website": "www.sace.ac.in",
+        "startDate": "2016-08-16",
+        "endDate": "2019-02-13",
+        "summary": "Training undergraduate students in the field of Mechanical Engineering",
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "Hindustan Institute of Technology and Science",
+        "area": "M.Tech Internal Combustion Engineering",
+        "studyType": "Full Time",
+        "startDate": "2014-04-01",
+        "endDate": "2016-04-01",
+        "gpa": "9.34"
+        
+      },
+      {
+        "institution": "Ganadipathy Tulsi's jain Engineering College",
+        "area": "B.E Mechcanical Engineering",
+        "studyType": "Full Time",
+        "startDate": "2009-04-01",
+        "endDate": "2013-04-01",
+        "gpa": "7.98"
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming languages",
+        "level": "intermediate",
+        "keywords": [
+          "C++, Python & HTML"
+        ]
+      },
+      {
+        "name": "Mechanical Design",
+        "level": "Expert",
+        "keywords": [
+          "Auto CAD, Solid Works, CATIA, ANSYS & Open FOAM"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "fluent"
+      },
+      {
+        "language": "Tamil",
+        "fluency": "fluent"
+      },
+      {
+        "language": "Kannada",
+        "fluency": "fluent"
+      },
+      {
+        "language": "Hindi",
+        "fluency": "speak & Understand"
+      }
+    ],
+    "interests": [
+      {
+        "name": "hobies",
+        "keywords": [
+          "Bike Driving, Photography, Camping and Trecking "
+        ]
+      }
+    ]
+  }
